@@ -4,7 +4,7 @@
 
 ## NLP Analysis of Movie Reviews
 
-### Dataset can be found here: [TMDP] (https://drive.google.com/file/d/1vLUzSYleJXqsjNMsq76yTQ5fmNlSHFJI/view)
+### Dataset can be found here: [TMDP](https://drive.google.com/file/d/1vLUzSYleJXqsjNMsq76yTQ5fmNlSHFJI/view)
 
 
 #### Word Clouds Exploring Low and High Reviews
