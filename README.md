@@ -23,3 +23,5 @@
 ![Screenshot 2024-02-12 7 09 03 PM](https://github.com/DJ-Adams/Analysis-of-What-Makes-a-Movie-Successful/assets/140389867/df3e786e-cb4b-4f18-ab8b-a8d6534303a6)
 ![Screenshot 2024-02-12 7 09 18 PM](https://github.com/DJ-Adams/Analysis-of-What-Makes-a-Movie-Successful/assets/140389867/7acecf42-e473-4e86-88a6-bd727d07869e)
 
+#### Movie Review Predictive App
+![app](https://github.com/DJ-Adams/Analysis-of-What-Makes-a-Movie-Successful/assets/140389867/9e8e736c-b561-4932-9a9b-392f4ca4fb9b)
